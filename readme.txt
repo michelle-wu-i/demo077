@@ -1,3 +1,5 @@
 abcdeffhfghfghfghfhfy和歌手看到过dksdgksdfgkdfgdkjfgdkjfg
 这是在master分支上添加的一行内容
 这是在dev分支上添加的一行内容
+我正在dev上开发一个NB的功能，还没开发完呢！老板就催我改bug!真过分！
+哈哈，bug解决了，我真NB！又可以开森的写代码摸鱼啦！
